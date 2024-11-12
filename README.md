@@ -81,3 +81,9 @@ HerbHub/
 4. **Mengelola Tanaman**: Hapus tanaman yang tidak diinginkan, atau perbarui informasi tanaman melalui fitur edit.
 
 ## Screenshot
+![Screenshot_2024-11-13-03-00-20-693_com herbhub](https://github.com/user-attachments/assets/608b7a60-4a76-4ab4-914f-f1f99a7d3e54)
+![Screenshot_2024-11-13-03-02-34-058_com herbhub](https://github.com/user-attachments/assets/24af02b8-cb8c-49a9-b2cb-ef4e1539945b)
+![Screenshot_2024-11-13-03-02-49-295_com herbhub](https://github.com/user-attachments/assets/bed872c1-916b-495e-a426-12ed55b20872)
+![Screenshot_2024-11-13-03-03-13-448_com herbhub](https://github.com/user-attachments/assets/d242c757-52b3-4a50-a621-cfd2ddec84be)
+![Screenshot_2024-11-13-03-03-40-438_com herbhub](https://github.com/user-attachments/assets/82b01dbf-c676-42a2-940a-04c45ec6ae97)
+
